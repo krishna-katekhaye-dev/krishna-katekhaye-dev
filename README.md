@@ -10,7 +10,7 @@ Hi there 👋
 
 - 💻 B.Tech (IT) student & self-taught developer  
 - 🌱 Currently leveling up in **Web Dev, Python 
-- 🎮 Love **gaming, design, and cyberpunk vibes**  
+- 🎮 Love **technology, design, and technical vibes**  
 - 🧠 Learning something new every day  
 - 📫 Reach me: **katekhayekrishna39@gmail.com**
 
