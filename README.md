@@ -1,4 +1,4 @@
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465](https://github.com/user-attachments/assets/ecb031bf-648c-4cf9-8264-29a30c744ada)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562](https://github.com/user-attachments/assets/ccce9050-ab12-4cff-a2cf-500579f8e15c)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661736372697074](https://github.com/user-attachments/assets/09fcfaf7-3aff-4520-a06b-b821d6928eec)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373](https://github.com/user-attachments/assets/48629145-24a1-4188-9589-3b286a2fa3a1)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c](https://github.com/user-attachments/assets/65220d44-e1b8-49c6-97f4-58a852b12979)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e](https://github.com/user-attachments/assets/db398b4f-0d49-4473-ae37-e2a9cba03eb7)Hi there 👋
+there 👋
 <h1 align="center">💻 Hey, I'm  krishna-katekhaye-dev </h1>
 <h3 align="center">  Developer • Designer • Tech Explorer</h3>
 
@@ -14,7 +14,6 @@
 - 🧠 Learning something new every day  
 - 📫 Reach me: **katekhayekrishna39@gmail.com**
 
----
 
 ### 🛠 Tech Stack
 <img width="439" height="326" alt="illustration" src="https://github.com/user-attachments/assets/7235b3df-c93b-4dfa-834f-414f1178ee0e" />
@@ -57,6 +56,10 @@
        
         
   </svg>
+
+---![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465](https://github.com/user-attachments/assets/ecb031bf-648c-4cf9-8264-29a30c744ada)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562](https://github.com/user-attachments/assets/ccce9050-ab12-4cff-a2cf-500579f8e15c)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661736372697074](https://github.com/user-attachments/assets/09fcfaf7-3aff-4520-a06b-b821d6928eec)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373](https://github.com/user-attachments/assets/48629145-24a1-4188-9589-3b286a2fa3a1)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c](https://github.com/user-attachments/assets/65220d44-e1b8-49c6-97f4-58a852b12979)![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e](https://github.com/user-attachments/assets/db398b4f-0d49-4473-ae37-e2a9cba03eb7)Hi 
+
+
    
  
 
