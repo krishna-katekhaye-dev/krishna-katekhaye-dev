@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!-- Center Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/logo.png" width="220" alt="Gunjan Creates Logo" />
-</p>
 
 <h1 align="center">⚔️ Hey, I'm Gunjan Creates</h1>
 <h3 align="center">Neon Pirate • Developer • Designer • Tech Explorer</h3>
