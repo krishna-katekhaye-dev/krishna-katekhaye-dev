@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">⚔️ Hey, I'm Gunjan Creates</h1>
+<h1 align="center">⚔️ Hey, I'm  krishna-katekhaye-dev </h1>
 <h3 align="center">Neon Pirate • Developer • Designer • Tech Explorer</h3>
 
 <p align="center">
@@ -24,45 +24,31 @@
 
 <p align="center">
   <!-- skillicons automatically applies nice icons -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,bootstrap,tailwind,git,github,linux,mysql,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css ,github,figma,vscode" />
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics (Neon Mode)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=00f7ff&icon_color=ff9800&text_color=ffffff&bg_color=000000" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&ring=00f7ff&fire=ff9800&currStreakLabel=ffffff&background=000000" alt="GitHub streak" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+  <img src=""C:\Users\Krishna\Downloads\logo.png"" />
 </p>
 
 ---
 
-### 📈 Activity Graph (Cyber Grid)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00f7ff&line=ff9800&point=ffffff&area=true&hide_border=true" />
-</p>
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff9800?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=00f7ff" /></a>
+  <a href="https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1"><img src="https://img.shields.io/badge/Instagram-ff9800?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krishna-katekhaye-863b8b315/"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" /></a>
+  <a href="https://krishna-katekhaye-dev.github.io/portfoli/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=00f7ff" /></a>
 </p>
 
 ---
